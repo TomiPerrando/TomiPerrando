@@ -12,15 +12,22 @@ If you're a recruiter, I highly recommend you to go on to the portfolio reposito
 
 ### Visualization Tools
 • PowerBI
-• Excel}
+
+• Excel
+
 • Tableau
+
 ### Databases
 • Microsoft SQL Server
+
 • SQLite
 ### Languages 
 • Python
+
 • SQL
+
 • DAX
+
 • PowerQuery
 
 ## About me
