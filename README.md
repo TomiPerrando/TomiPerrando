@@ -1,6 +1,6 @@
 ## Introduction
 
-"*— Sorry for the lack of emojis, I don't like them...*"
+"*— I turn raw data into easy-to-read information...*"
 
 Hi there 👋 I'm Tomi
 
@@ -10,6 +10,18 @@ If you're a recruiter, I highly recommend you to go on to the portfolio reposito
 
 ## Stack & Skills
 
+### Visualization Tools
+• PowerBI
+• Excel}
+• Tableau
+### Databases
+• Microsoft SQL Server
+• SQLite
+### Languages 
+• Python
+• SQL
+• DAX
+• PowerQuery
 
 ## About me
 "*I'm a very reachable person if you want to get in contact.*"
