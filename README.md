@@ -1,13 +1,5 @@
 # [WORK IN PROGRESS]
 
-## Introduction
-
-"*— I turn raw data into easy-to-read information...*"
-
-Hi there 👋 I'm Tomi
-
-I'm a nerdy guy from Argentina who is trying to become a Data Scientist, I'll probably apply to some Data Analyst jobs too though...
-
 ## Stack & Skills
 
 ### Visualization Tools
