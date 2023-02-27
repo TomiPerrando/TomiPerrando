@@ -1,5 +1,5 @@
 # [WORK IN PROGRESS]
-##Introduction
+## Introduction
 ## Stack & Skills
 
 ### Visualization Tools
