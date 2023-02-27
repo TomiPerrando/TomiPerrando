@@ -40,3 +40,6 @@ I'm a nerdy guy from Argentina who is trying to become a Data Scientist, I'll pr
  - Bodybuilding
 
  - 📫 How to reach me: ...
+
+# [WORK IN PROGRESS]
+
