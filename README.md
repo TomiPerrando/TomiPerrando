@@ -26,7 +26,7 @@ Hi, I'm Tomi! I'm a Data Science student and I will be using Github to store som
 • PowerQuery
 
 ## About me
-I'm a very reachable person if you want to get in contact 😊
+[work in progress]
 ### Things I like
  - Anime/Manga
  - 🎮Videogames
